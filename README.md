@@ -1,4 +1,4 @@
 # Demo
 This is my First Git Repository.
 <br>
-Author - Vicky Patil
+Author - Vicky Patil(Finolex College)
